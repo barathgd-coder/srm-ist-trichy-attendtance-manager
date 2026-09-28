@@ -1,5 +1,5 @@
 # Attendance Compass
-
+https://barathgd-coder.github.io/srm-ist-trichy-attendtance-manager/
 Attendance calculator, OD simulator and Attendance Advisor chatbot for SRM IST Tiruchirappalli (odd semester 2026-27).
 
 ## Run in VS Code
